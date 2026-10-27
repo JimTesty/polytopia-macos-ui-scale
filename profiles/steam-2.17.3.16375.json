@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "game_version": "2.17.3.16375",
+  "source_asset_sha256": "9f35bded11a8a86019da9cab8dd94650e9c3274a9e71708fe9de30808e37c3c9",
+  "unity_revision": "6000.3.17f1",
+  "node_name": "sharedassets0.assets",
+  "logical_field_offset": "0x2f2b1e0",
+  "original_global_ui_multiplier": 1.0,
+  "presets": [
+    {
+      "limit": 0.0,
+      "multiplier": 1.0,
+      "key": "settings.scale.small"
+    },
+    {
+      "limit": 2.4000000953674316,
+      "multiplier": 1.2999999523162842,
+      "key": "settings.scale.medium"
+    },
+    {
+      "limit": 5.0,
+      "multiplier": 2.0,
+      "key": "settings.scale.large"
+    },
+    {
+      "limit": 10.0,
+      "multiplier": 2.5,
+      "key": "settings.scale.verylarge"
+    }
+  ]
+}

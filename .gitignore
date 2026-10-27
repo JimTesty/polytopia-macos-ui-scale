@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Keep game files, local reports, and backups out of source control.
+*.app/
+*.unity3d
+*.dylib
+*.plist
+*.acf
+*.patch.json
+trial/
+patched/
+artifacts/
+backups/
+patch-backups/
